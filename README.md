@@ -9,3 +9,7 @@ We test out for different methods for outlier detection:
 - Statistical method
 - Distance based method
 - Model based methods
+
+## Explore the notebook
+
+[📓 View the Analysis Notebook](outlier_detection.ipynb)
