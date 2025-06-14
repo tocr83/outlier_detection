@@ -12,4 +12,4 @@ We test out for different methods for outlier detection:
 
 ## Explore the notebook
 
-[📓 View the Analysis Notebook](outlier_detection.ipynb)
+[📓 View the Analysis](outlier_analysis.ipynb)
